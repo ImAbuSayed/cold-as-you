@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Cold as You
+
+This log tracks the cryptographic history and versioning for the song **Cold as You** (cold-as-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-23T04:56:20.525548 | `v1` | `12c1e40b85db8122c3bce90ddeca92dbfa8da537977f765b155f36d831c6adeb` | `f114d44403a02c7ce028452fc77516021cb7c5a217da5b4471431cd92581c10e` | `2026-05-23_cold-as-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
