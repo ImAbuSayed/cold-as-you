@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cold-as-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Cold as You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cold-as-you/) |
+| **Get License** | [Get License For Cold as You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cold-as-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I never knew a chill could feel so right
+> Drawing me deeper in the velvet night
+> You pour the whiskey and you lock the door
+> Leaving me desperate and begging for more
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
